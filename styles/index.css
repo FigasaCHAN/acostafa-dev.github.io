@@ -1,0 +1,27 @@
+.container-section {
+    margin-top: 100px;
+    margin-bottom: 50px;
+}
+
+.container-section-about-me {
+    background-color: #6E07F3;
+    color: #FFFFFFFF;
+}
+
+.container-section-about-me-info {
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+
+.skill-info-secondary {
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.container-section-skills {
+    background-color: #6E07F3;
+}
+
+.skills-info-container {
+    background-color: #ffffff;
+}
