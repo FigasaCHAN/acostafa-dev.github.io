@@ -1,7 +1,7 @@
 
 
 function loadJSONAsList() {
-    const path = "../resources/files/projects.json";
+    const path = "https://figasachan.github.io/acostafa-dev.github.io/resources/files/projects.json";
     return fetch(path)
         .then(response => {
             if (!response.ok) {
