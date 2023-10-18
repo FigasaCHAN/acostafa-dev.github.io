@@ -1,38 +1,38 @@
 [
   {
-    "Name": "Proyecto 1",
-    "Description": "Prueba",
-    "Source": "./resources/images/wedlerengineering.png",
+    "Name": "Project One",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus laoreet interdum ipsum, vel dignissim ligula gravida sed. Curabitur eu mollis tellus. Nunc ac libero velit.",
+    "Source": "./resources/images/burkettandco.png",
     "Alt" : ""
   },
   {
-    "Name": "Proyecto 1",
-    "Description": "Prueba",
-    "Source": "./resources/images/wedlerengineering.png",
+    "Name": "Project Two",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus laoreet interdum ipsum, vel dignissim ligula gravida sed. Curabitur eu mollis tellus. Nunc ac libero velit.",
+    "Source": "./resources/images/chronicled.png",
     "Alt" : ""
   },
   {
-    "Name": "Proyecto 1",
-    "Description": "Prueba",
-    "Source": "./resources/images/wedlerengineering.png",
+    "Name": "Project Three",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus laoreet interdum ipsum, vel dignissim ligula gravida sed. Curabitur eu mollis tellus. Nunc ac libero velit.",
+    "Source": "./resources/images/coupal.png",
     "Alt" : ""
   },
   {
-  "Name": "Proyecto 1",
-  "Description": "Prueba",
-  "Source": "./resources/images/wedlerengineering.png",
+  "Name": "Project Four",
+  "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus laoreet interdum ipsum, vel dignissim ligula gravida sed. Curabitur eu mollis tellus. Nunc ac libero velit.",
+  "Source": "./resources/images/glcsolutions.png",
   "Alt" : ""
   },
   {
-    "Name": "Proyecto 1",
-    "Description": "Prueba",
+    "Name": "Project Five",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus laoreet interdum ipsum, vel dignissim ligula gravida sed. Curabitur eu mollis tellus. Nunc ac libero velit.",
     "Source": "./resources/images/wedlerengineering.png",
     "Alt" : ""
   },
   {
-    "Name": "Proyecto 1",
-    "Description": "Prueba",
-    "Source": "./resources/images/wedlerengineering.png",
+    "Name": "Project Six",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus laoreet interdum ipsum, vel dignissim ligula gravida sed. Curabitur eu mollis tellus. Nunc ac libero velit.",
+    "Source": "./resources/images/wfdesignbuild.png",
     "Alt" : ""
   }
 ]
