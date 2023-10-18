@@ -11,14 +11,15 @@ i{
     margin-bottom: 50px;
 }
 
-.container-section-about-me {
+.container-section-description {
     background-color: #6E07F3;
     color: #FFFFFFFF;
 }
 
-.container-section-about-me-info {
+.container-section-description-info {
     margin-top: 150px;
     margin-bottom: 150px;
+
 }
 
 .skill-info-secondary {
@@ -28,10 +29,23 @@ i{
 
 .container-section-skills {
     background-color: #6E07F3;
+    padding-bottom: 50px;
+
 }
 
 .skills-info-container {
     background-color: #ffffff;
+
+}
+
+.about-me{
+}
+
+.contact{
+    padding-top: 10vh;
+    padding-bottom: 10vh;
+    background-color: #e8e8e8;
+    border-radius: 15px;
 }
 
 .copyright{
@@ -39,6 +53,7 @@ i{
     color: #ffffff;
 
 }
+
 .copyright img{
     width: 50px;
 }
