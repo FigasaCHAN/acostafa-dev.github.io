@@ -1,3 +1,11 @@
+a {
+    text-decoration: none;
+}
+
+i{
+    font-size: 30px;
+}
+
 .container-section {
     margin-top: 100px;
     margin-bottom: 50px;
@@ -25,9 +33,6 @@
 .skills-info-container {
     background-color: #ffffff;
 }
-.social-icons img{
-    width: 60px;
-}
 
 .copyright{
     padding-top: 50px;
@@ -38,7 +43,12 @@
     width: 50px;
 }
 
+.social-icons-item{
+    color: #fffde9;
+}
+
 footer{
+    color: #fffde9;
     background-color: #6E07F3;
     padding: 200px;
 }
